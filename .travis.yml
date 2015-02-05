@@ -12,3 +12,4 @@ bundler_args: "--without repl documentation release"
 branches:
   only:
     - master
+    - aws-sdk-v1
